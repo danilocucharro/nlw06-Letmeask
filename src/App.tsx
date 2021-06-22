@@ -1,6 +1,10 @@
+import React from "react";
+import { Home } from "./pages/Home";
+import { NewRoom } from "./pages/NewRoom";
+
 function App() {
   return (
-    <h1>Hellow world</h1>
+    <NewRoom/>
   );
 }
 
